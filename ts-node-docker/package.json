@@ -1,0 +1,30 @@
+{
+  "name": "ts-node-docker",
+  "version": "1.0.0",
+  "description": "Transforms the web into a semantic knowledge base for running ML algorithms",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davz33/carryme.git"
+  },
+  "keywords": [
+    "carryme",
+    "machine",
+    "learning",
+    "semantic",
+    "knowledge",
+    "base"
+  ],
+  "author": "Davide Vitiello davide-vitiello@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davz33/carryme/issues"
+  },
+  "homepage": "https://github.com/Davz33/carryme#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
